@@ -718,6 +718,7 @@ void cmove(){
     
     //    //copy contents in rA to rB
     //    *rBPointer = *rAPointer;
+    //test comment
     
 }
 
